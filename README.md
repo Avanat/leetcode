@@ -15,7 +15,7 @@ My solutions to LeetCode problems, implemented in Python.
 | 7 | Reverse Integer | [Solution](0007-reverse-integer.py) |
 | 8 | String to Integer (atoi) | [Solution](0008-string-to-integer-atoi.py) |
 | 9 | Palindrome Number | [Solution](0009-palindrome-number.py) |
-| 10 | Regular Expression Matching | [Wrong Attempt](0010-regular-expression-matching.py) |
+| 10 | Regular Expression Matching | [Solution](0010-regular-expression-matching.py) |
 | 11 | Container With Most Water | [Solution](0011-container-with-most-water.py) |
 | 12 | Integer to Roman | [Solution](0012-integer-to-roman.py) |
 | 13 | Roman to Integer | [Solution](0013-roman-to-integer.py) |
