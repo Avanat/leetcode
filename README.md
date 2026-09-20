@@ -5,7 +5,7 @@ My solutions to LeetCode problems, implemented in Python.
 ## Problems
 
 | # | Problem | Solution |
-
+|---|---|---|
 | 1 | Two Sum | [Solution](0001-two-sum.py) |
 | 2 | Add Two Numbers | [Solution](0002-add-two-numbers.py) |
 | 3 | Longest Substring Without Repeating Characters | [Solution](0003-longest-substring-without-repeating-characters.py) |
@@ -20,3 +20,13 @@ My solutions to LeetCode problems, implemented in Python.
 | 12 | Integer to Roman | [Solution](0012-integer-to-roman.py) |
 | 13 | Roman to Integer | [Solution](0013-roman-to-integer.py) |
 | 14 | Longest Common Prefix | [Solution](0014-longest-common-prefix.py) |
+| 15 | 3Sum | [Solution](0015-3sum.py) |
+| 16 | 3Sum Closest | [Solution](0016-3sum-closest.py) |
+| 17 | Letter Combinations of a Phone Number | [Solution](0017-letter-combinations-of-a-phone-number.py) |
+| 18 | 4Sum | [Solution](0018-4sum.py) |
+| 19 | Remove Nth Node From End of List | [Solution](0019-remove-nth-node-from-end-of-list.py) |
+| 20 | Valid Parentheses | [Solution](0020-valid-parentheses.py) |
+| 21 | Merge Two Sorted Lists | [Solution](0021-merge-two-sorted-lists.py) |
+| 22 | Generate Parentheses | [Solution](0022-generate-parentheses.py) |
+| 23 | Merge k Sorted Lists | [Solution](0023-merge-k-sorted-lists.py) |
+| 24 | Swap Nodes in Pairs | [Solution](0024-swap-nodes-in-pairs.py) |
