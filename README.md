@@ -30,3 +30,6 @@ My solutions to LeetCode problems, implemented in Python.
 | 22 | Generate Parentheses | [Solution](0022-generate-parentheses.py) |
 | 23 | Merge k Sorted Lists | [Solution](0023-merge-k-sorted-lists.py) |
 | 24 | Swap Nodes in Pairs | [Solution](0024-swap-nodes-in-pairs.py) |
+| 25 | Reverse Nodes in k-Group | [Solution](0025-reverse-nodes-in-k-group.py) |
+| 26 | Remove Duplicates from Sorted Array | [Solution](0026-remove-duplicates-from-sorted-array.py) |
+| 27 | Remove Element | [Solution](0027-remove-element.py) |
