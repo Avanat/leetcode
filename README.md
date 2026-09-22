@@ -33,3 +33,10 @@ My solutions to LeetCode problems, implemented in Python.
 | 25 | Reverse Nodes in k-Group | [Solution](0025-reverse-nodes-in-k-group.py) |
 | 26 | Remove Duplicates from Sorted Array | [Solution](0026-remove-duplicates-from-sorted-array.py) |
 | 27 | Remove Element | [Solution](0027-remove-element.py) |
+| 28 | Find the Index of the First Occurrence in a String | [Solution](0028-find-the-index-of-the-first-occurrence-in-a-string.py) |
+| 29 | Divide Two Integers | [Solution](0029-divide-two-integers.py) |
+| 30 | Substring with Concatenation of All Words | [Solution](0030-substring-with-concatenation-of-all-words.py) |
+| 31 | Next Permutation | [Solution](0031-next-permutation.py) |
+| 32 | Longest Valid Parentheses | [Solution](0032-longest-valid-parentheses.py) |
+| 33 | Search in Rotated Sorted Array | [Solution](0033-search-in-rotated-sorted-array.py) |
+| 34 | Find First and Last Position of Element in Sorted Array | [Solution](0034-find-first-and-last-position-of-element-in-sorted-array.py) |
