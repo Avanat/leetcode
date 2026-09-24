@@ -51,3 +51,5 @@ My solutions to LeetCode problems, implemented in Python.
 | 43 | Multiply Strings | [Solution](0043-multiply-strings.py) |
 | 44 | Wildcard Matching | [Solution](0044-wildcard-matching.py) |
 | 45 | Jump Game II | [Solution](0045-jump-game-ii.py) |
+| 46 | Permutations | [Solution](0046-permutations.py) |
+| 47 | Permutations II | [Solution](0047-permutations-ii.py) |
