@@ -40,3 +40,14 @@ My solutions to LeetCode problems, implemented in Python.
 | 32 | Longest Valid Parentheses | [Solution](0032-longest-valid-parentheses.py) |
 | 33 | Search in Rotated Sorted Array | [Solution](0033-search-in-rotated-sorted-array.py) |
 | 34 | Find First and Last Position of Element in Sorted Array | [Solution](0034-find-first-and-last-position-of-element-in-sorted-array.py) |
+| 35 | Search Insert Position | [Solution](0035-search-insert-position.py) |
+| 36 | Valid Sudoku | [Solution](0036-valid-sudoku.py) |
+| 37 | Sudoku Solver | [Solution](0037-sudoku-solver.py) |
+| 38 | Count and Say | [Solution](0038-count-and-say.py) |
+| 39 | Combination Sum | [Solution](0039-combination-sum.py) |
+| 40 | Combination Sum II | [Solution](0040-combination-sum-ii.py) |
+| 41 | First Missing Positive | [Solution](0041-first-missing-positive.py) |
+| 42 | Trapping Rain Water | [Solution](0042-trapping-rain-water.py) |
+| 43 | Multiply Strings | [Solution](0043-multiply-strings.py) |
+| 44 | Wildcard Matching | [Solution](0044-wildcard-matching.py) |
+| 45 | Jump Game II | [Solution](0045-jump-game-ii.py) |
