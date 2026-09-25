@@ -55,3 +55,4 @@ My solutions to LeetCode problems, implemented in Python.
 | 47 | Permutations II | [Solution](0047-permutations-ii.py) |
 | 48 | Rotate Image | [Solution](0048-rotate-image.py) |
 | 49 | Group Anagrams | [Solution](0049-group-anagrams.py) |
+| 50 | Pow(x, n) | [Solution](0050-pow-x-n.py) |
