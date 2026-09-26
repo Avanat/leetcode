@@ -61,3 +61,8 @@ My solutions to LeetCode problems, implemented in Python.
 | 53 | Maximum Subarray | [Solution](0053-maximum-subarray.py) |
 | 54 | Spiral Matrix | [Solution](0054-spiral-matrix.py) |
 | 55 | Jump Game | [Solution](0055-jump-game.py) |
+| 56 | Merge Intervals | [Solution](0056-merge-intervals.py) |
+| 57 | Insert Interval | [Solution](0057-insert-interval.py) |
+| 58 | Length of Last Word | [Solution](0058-length-of-last-word.py) |
+| 59 | Spiral Matrix II | [Solution](0059-spiral-matrix-ii.py) |
+| 60 | Permutation Sequence | [Solution](0060-permutation-sequence.py) |
