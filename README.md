@@ -56,3 +56,8 @@ My solutions to LeetCode problems, implemented in Python.
 | 48 | Rotate Image | [Solution](0048-rotate-image.py) |
 | 49 | Group Anagrams | [Solution](0049-group-anagrams.py) |
 | 50 | Pow(x, n) | [Solution](0050-pow-x-n.py) |
+| 51 | N-Queens | [Solution](0051-n-queens.py) |
+| 52 | N-Queens II | [Solution](0052-n-queens-ii.py) |
+| 53 | Maximum Subarray | [Solution](0053-maximum-subarray.py) |
+| 54 | Spiral Matrix | [Solution](0054-spiral-matrix.py) |
+| 55 | Jump Game | [Solution](0055-jump-game.py) |
