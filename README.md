@@ -66,3 +66,7 @@ My solutions to LeetCode problems, implemented in Python.
 | 58 | Length of Last Word | [Solution](0058-length-of-last-word.py) |
 | 59 | Spiral Matrix II | [Solution](0059-spiral-matrix-ii.py) |
 | 60 | Permutation Sequence | [Solution](0060-permutation-sequence.py) |
+| 61 | Rotate List | [Solution](0061-rotate-list.py) |
+| 62 | Unique Paths | [Solution](0062-unique-paths.py) |
+| 63 | Unique Paths II | [Solution](0063-unique-paths-ii.py) |
+| 64 | Minimum Path Sum | [Solution](0064-minimum-path-sum.py) |
