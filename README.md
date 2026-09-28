@@ -70,3 +70,7 @@ My solutions to LeetCode problems, implemented in Python.
 | 62 | Unique Paths | [Solution](0062-unique-paths.py) |
 | 63 | Unique Paths II | [Solution](0063-unique-paths-ii.py) |
 | 64 | Minimum Path Sum | [Solution](0064-minimum-path-sum.py) |
+| 65 | Valid Number | [Solution](0065-valid-number.py) |
+| 66 | Plus One | [Solution](0066-plus-one.py) |
+| 67 | Add Binary | [Solution](0067-add-binary.py) |
+| 68 | Text Justification | [Solution](0068-text-justification.py) |
