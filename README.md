@@ -74,3 +74,7 @@ My solutions to LeetCode problems, implemented in Python.
 | 66 | Plus One | [Solution](0066-plus-one.py) |
 | 67 | Add Binary | [Solution](0067-add-binary.py) |
 | 68 | Text Justification | [Solution](0068-text-justification.py) |
+| 69 | Sqrt(x) | [Solution](0069-sqrt-x.py) |
+| 70 | Climbing Stairs | [Solution](0070-climbing-stairs.py) |
+| 71 | Simplify Path | [Solution](0071-simplify-path.py) |
+| 72 | Edit Distance | [Solution](0072-edit-distance.py) |
