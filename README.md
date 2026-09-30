@@ -78,3 +78,9 @@ My solutions to LeetCode problems, implemented in Python.
 | 70 | Climbing Stairs | [Solution](0070-climbing-stairs.py) |
 | 71 | Simplify Path | [Solution](0071-simplify-path.py) |
 | 72 | Edit Distance | [Solution](0072-edit-distance.py) |
+| 73 | Set Matrix Zeroes | [Solution](Solution/0073-set-matrix-zeroes.py) |
+| 74 | Search a 2D Matrix | [Solution](Solution/0074-search-a-2d-matrix.py) |
+| 75 | Sort Colors | [Solution](Solution/0075-sort-colors.py) |
+| 76 | Minimum Window Substring | [Solution](Solution/0076-minimum-window-substring.py) |
+| 77 | Combinations | [Solution](Solution/0077-combinations.py) |
+| 78 | Subsets | [Solution](Solution/0078-subsets.py) |
