@@ -88,3 +88,6 @@ My solutions to LeetCode problems, implemented in Python.
 | 80 | Remove Duplicates from Sorted Array II | [Solution](0080-remove-duplicates-from-sorted-array-ii.py) |
 | 81 | Search in Rotated Sorted Array II | [Solution](0081-search-in-rotated-sorted-array-ii.py) |
 | 82 | Remove Duplicates from Sorted List II | [Solution](0082-remove-duplicates-from-sorted-list-ii.py) |
+| 83 | Remove Duplicates from Sorted List | [Solution](Solution/0083-remove-duplicates-from-sorted-list.py) |
+| 84 | Largest Rectangle in Histogram | [Solution](Solution/0084-largest-rectangle-in-histogram.py) |
+| 85 | Maximal Rectangle | [Solution](Solution/0085-maximal-rectangle.py) |
