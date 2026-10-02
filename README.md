@@ -84,3 +84,7 @@ My solutions to LeetCode problems, implemented in Python.
 | 76 | Minimum Window Substring | [Solution](Solution/0076-minimum-window-substring.py) |
 | 77 | Combinations | [Solution](Solution/0077-combinations.py) |
 | 78 | Subsets | [Solution](Solution/0078-subsets.py) |
+| 79 | Word Search | [Solution](0079-word-search.py) |
+| 80 | Remove Duplicates from Sorted Array II | [Solution](0080-remove-duplicates-from-sorted-array-ii.py) |
+| 81 | Search in Rotated Sorted Array II | [Solution](0081-search-in-rotated-sorted-array-ii.py) |
+| 82 | Remove Duplicates from Sorted List II | [Solution](0082-remove-duplicates-from-sorted-list-ii.py) |
