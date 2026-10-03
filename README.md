@@ -91,3 +91,6 @@ My solutions to LeetCode problems, implemented in Python.
 | 83 | Remove Duplicates from Sorted List | [Solution](Solution/0083-remove-duplicates-from-sorted-list.py) |
 | 84 | Largest Rectangle in Histogram | [Solution](Solution/0084-largest-rectangle-in-histogram.py) |
 | 85 | Maximal Rectangle | [Solution](Solution/0085-maximal-rectangle.py) |
+| 86 | Partition List | [Solution](Solution/0086-partition-list.py) |
+| 87 | Scramble String | [Solution](Solution/0087-scramble-string.py) |
+| 88 | Merge Sorted Array | [Solution](Solution/0088-merge-sorted-array.py) |
