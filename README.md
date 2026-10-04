@@ -94,3 +94,7 @@ My solutions to LeetCode problems, implemented in Python.
 | 86 | Partition List | [Solution](Solution/0086-partition-list.py) |
 | 87 | Scramble String | [Solution](Solution/0087-scramble-string.py) |
 | 88 | Merge Sorted Array | [Solution](Solution/0088-merge-sorted-array.py) |
+| 89 | Gray Code | [Solution](0089-gray-code.py) |
+| 90 | Subsets II | [Solution](0090-subsets-ii.py) |
+| 91 | Decode Ways | [Solution](0091-decode-ways.py) |
+| 92 | Reverse Linked List II | [Solution](0092-reverse-linked-list-ii.py) |
