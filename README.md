@@ -103,3 +103,6 @@ My solutions to LeetCode problems, implemented in Python.
 | 95 | Unique Binary Search Trees II | [Solution](0095-unique-binary-search-trees-ii.py) |
 | 96 | Unique Binary Search Trees | [Solution](0096-unique-binary-search-trees.py) |
 | 97 | Interleaving String | [Solution](0097-interleaving-string.py) |
+| 98 | Validate Binary Search Tree | [Solution](Solution/0098-validate-binary-search-tree.py) |
+| 99 | Recover Binary Search Tree | [Solution](Solution/0099-recover-binary-search-tree.py) |
+| 100 | Same Tree | [Solution](Solution/0100-same-tree.py) |
