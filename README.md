@@ -106,3 +106,5 @@ My solutions to LeetCode problems, implemented in Python.
 | 98 | Validate Binary Search Tree | [Solution](Solution/0098-validate-binary-search-tree.py) |
 | 99 | Recover Binary Search Tree | [Solution](Solution/0099-recover-binary-search-tree.py) |
 | 100 | Same Tree | [Solution](Solution/0100-same-tree.py) |
+| 101 | Symmetric Tree | [Solution](Solution/0101-symmetric-tree.py) |
+| 102 | Binary Tree Level Order Traversal | [Solution](Solution/0102-binary-tree-level-order-traversal.py) |
