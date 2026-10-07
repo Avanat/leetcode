@@ -108,3 +108,7 @@ My solutions to LeetCode problems, implemented in Python.
 | 100 | Same Tree | [Solution](Solution/0100-same-tree.py) |
 | 101 | Symmetric Tree | [Solution](Solution/0101-symmetric-tree.py) |
 | 102 | Binary Tree Level Order Traversal | [Solution](Solution/0102-binary-tree-level-order-traversal.py) |
+| 103 | Binary Tree Zigzag Level Order Traversal | [Solution](Solution/0103-binary-tree-zigzag-level-order-traversal.py) |
+| 104 | Maximum Depth of Binary Tree | [Solution](Solution/0104-maximum-depth-of-binary-tree.py) |
+| 105 | Construct Binary Tree from Preorder and Inorder Traversal | [Solution](Solution/0105-construct-binary-tree-from-preorder-and-inorder.py) |
+| 106 | Construct Binary Tree from Inorder and Postorder Traversal | [Solution](Solution/0106-construct-binary-tree-from-inorder-and-postorder.py) |
