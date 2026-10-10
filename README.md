@@ -118,3 +118,7 @@ My solutions to LeetCode problems, implemented in Python.
 | 110 | Balanced Binary Tree | [Solution](Solution/0110-balanced-binary-tree.py) |
 | 111 | Minimum Depth of Binary Tree | [Solution](Solution/0111-minimum-depth-of-binary-tree.py) |
 | 112 | Path Sum | [Solution](Solution/0112-path-sum.py) |
+| 113 | Path Sum II | [Solution](Solution/0113-path-sum-ii.py) |
+| 114 | Flatten Binary Tree to Linked List | [Solution](Solution/0114-flatten-binary-tree-to-linked-list.py) |
+| 115 | Distinct Subsequences | [Solution](Solution/0115-distinct-subsequences.py) |
+| 116 | Populating Next Right Pointers in Each Node | [Solution](Solution/0116-populating-next-right-pointers-in-each-node.py) |
