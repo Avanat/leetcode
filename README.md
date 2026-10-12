@@ -126,3 +126,5 @@ My solutions to LeetCode problems, implemented in Python.
 | 118 | Pascal's Triangle | [Solution](Solution/0118-pascals-triangle.py) |
 | 119 | Pascal's Triangle II | [Solution](Solution/0119-pascals-triangle-ii.py) |
 | 120 | Triangle | [Solution](Solution/0120-triangle.py) |
+| 121 | Best Time to Buy and Sell Stock | [Solution](Solution/0121-best-time-to-buy-and-sell-stock.py) |
+| 122 | Best Time to Buy and Sell Stock II | [Solution](Solution/0122-best-time-to-buy-and-sell-stock-ii.py) |
