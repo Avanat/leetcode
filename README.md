@@ -132,3 +132,4 @@ My solutions to LeetCode problems, implemented in Python.
 | 124 | Binary Tree Maximum Path Sum | [Solution](Solution/0124-binary-tree-maximum-path-sum.py) |
 | 125 | Valid Palindrome | [Solution](Solution/0125-valid-palindrome.py) |
 | 125 | Valid Palindrome | [Solution](Solution/0125-valid-palindrome.py) |
+| 126 | Word Ladder II | [Solution](Solution/0126-word-ladder-ii.py) |
