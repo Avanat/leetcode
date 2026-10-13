@@ -128,3 +128,6 @@ My solutions to LeetCode problems, implemented in Python.
 | 120 | Triangle | [Solution](Solution/0120-triangle.py) |
 | 121 | Best Time to Buy and Sell Stock | [Solution](Solution/0121-best-time-to-buy-and-sell-stock.py) |
 | 122 | Best Time to Buy and Sell Stock II | [Solution](Solution/0122-best-time-to-buy-and-sell-stock-ii.py) |
+| 123 | Best Time to Buy and Sell Stock III | [Solution](Solution/0123-best-time-to-buy-and-sell-stock-iii.py) |
+| 124 | Binary Tree Maximum Path Sum | [Solution](Solution/0124-binary-tree-maximum-path-sum.py) |
+| 125 | Valid Palindrome | [Solution](Solution/0125-valid-palindrome.py) |
