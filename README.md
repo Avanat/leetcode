@@ -133,3 +133,4 @@ My solutions to LeetCode problems, implemented in Python.
 | 125 | Valid Palindrome | [Solution](Solution/0125-valid-palindrome.py) |
 | 125 | Valid Palindrome | [Solution](Solution/0125-valid-palindrome.py) |
 | 126 | Word Ladder II | [Solution](Solution/0126-word-ladder-ii.py) |
+| 127 | Word Ladder | [Solution](Solution/0127-word-ladder.py) |
