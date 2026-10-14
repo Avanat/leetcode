@@ -1,0 +1,26 @@
+from collections import deque
+
+class Solution(object):
+    def ladderLength(self, beginWord, endWord, wordList):
+        words = set(wordList)
+
+        if endWord not in words:
+            return 0
+
+        queue = deque([(beginWord, 1)])
+
+        while queue:
+            word, length = queue.popleft()
+
+            if word == endWord:
+                return length
+
+            for i in range(len(word)):
+                for char in "abcdefghijklmnopqrstuvwxyz":
+                    next_word = word[:i] + char + word[i + 1:]
+
+                    if next_word in words:
+                        words.remove(next_word)
+                        queue.append((next_word, length + 1))
+
+        return 0
