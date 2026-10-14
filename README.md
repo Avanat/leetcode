@@ -135,3 +135,4 @@ My solutions to LeetCode problems, implemented in Python.
 | 126 | Word Ladder II | [Solution](Solution/0126-word-ladder-ii.py) |
 | 127 | Word Ladder | [Solution](Solution/0127-word-ladder.py) |
 | 128 | Longest Consecutive Sequence | [Solution](Solution/0128-longest-consecutive-sequence.py) |
+| 129 | Sum Root to Leaf Numbers | [Solution](Solution/0129-sum-root-to-leaf-numbers.py) |
