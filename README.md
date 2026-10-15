@@ -137,3 +137,4 @@ My solutions to LeetCode problems, implemented in Python.
 | 128 | Longest Consecutive Sequence | [Solution](Solution/0128-longest-consecutive-sequence.py) |
 | 129 | Sum Root to Leaf Numbers | [Solution](Solution/0129-sum-root-to-leaf-numbers.py) |
 | 130 | Surrounded Regions | [Solution](Solution/0130-surrounded-regions.py) |
+| 131 | Palindrome Partitioning | [Solution](Solution/0131-palindrome-partitioning.py) |
