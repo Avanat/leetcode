@@ -140,3 +140,5 @@ My solutions to LeetCode problems, implemented in Python.
 | 131 | Palindrome Partitioning | [Solution](Solution/0131-palindrome-partitioning.py) |
 | 132 | Palindrome Partitioning II | [Solution](Solution/0132-palindrome-partitioning-ii.py) |
 | 133 | Clone Graph | [Solution](Solution/0133-clone-graph.py) |
+| 134 | Gas Station | [Solution](Solution/0134-gas-station.py) |
+
