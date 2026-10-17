@@ -145,3 +145,4 @@ My solutions to LeetCode problems, implemented in Python.
 | 136 | Single Number II | [Solution](Solution/0136-single-number-ii.py) |
 | 137 | Single Number II | [Solution](Solution/0137-single-number-ii.py) |
 | 138 | Copy List with Random Pointer | [Solution](Solution/0138-copy-list-with-random-pointer.py) |
+| 139 | Word Break | [Solution](Solution/0139-word-break.py) |
