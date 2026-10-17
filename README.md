@@ -144,3 +144,4 @@ My solutions to LeetCode problems, implemented in Python.
 | 135 | Candy | [Solution](Solution/0135-candy.py) |
 | 136 | Single Number II | [Solution](Solution/0136-single-number-ii.py) |
 | 137 | Single Number II | [Solution](Solution/0137-single-number-ii.py) |
+| 138 | Copy List with Random Pointer | [Solution](Solution/0138-copy-list-with-random-pointer.py) |
