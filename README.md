@@ -147,3 +147,4 @@ My solutions to LeetCode problems, implemented in Python.
 | 138 | Copy List with Random Pointer | [Solution](Solution/0138-copy-list-with-random-pointer.py) |
 | 139 | Word Break | [Solution](Solution/0139-word-break.py) |
 | 140 | Word Break II | [Solution](Solution/0140-word-break-ii.py) |
+| 141 | Linked List Cycle | [Solution](Solution/0141-linked-list-cycle.py) |
