@@ -151,3 +151,4 @@ My solutions to LeetCode problems, implemented in Python.
 | 142 | Linked List Cycle II | [Solution](Solution/0142-linked-list-cycle-ii.py) |
 | 143 | Reorder List | [Solution](Solution/0143-reorder-list.py) |
 | 144 | Binary Tree Preorder Traversal | [Solution](Solution/0144-binary-tree-preorder-traversal.py) |
+| 145 | Binary Tree Postorder Traversal | [Solution](Solution/0145-binary-tree-postorder-traversal.py) |
