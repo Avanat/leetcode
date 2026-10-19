@@ -154,3 +154,4 @@ My solutions to LeetCode problems, implemented in Python.
 | 145 | Binary Tree Postorder Traversal | [Solution](Solution/0145-binary-tree-postorder-traversal.py) |
 | 146 | LRU Cache | [Solution](Solution/0146-lru-cache.py) |
 | 147 | Insertion Sort List | [Solution](Solution/0147-insertion-sort-list.py) |
+| 148 | Sort List | [Solution](Solution/0148-sort-list.py) |
