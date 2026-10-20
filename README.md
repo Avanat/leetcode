@@ -156,3 +156,4 @@ My solutions to LeetCode problems, implemented in Python.
 | 147 | Insertion Sort List | [Solution](Solution/0147-insertion-sort-list.py) |
 | 148 | Sort List | [Solution](Solution/0148-sort-list.py) |
 | 149 | Max Points on a Line | [Solution](Solution/0149-max-points-on-a-line.py) |
+| 150 | Evaluate Reverse Polish Notation | [Solution](Solution/0150-evaluate-reverse-polish-notation.py) |
