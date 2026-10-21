@@ -161,3 +161,4 @@ My solutions to LeetCode problems, implemented in Python.
 | 152 | Maximum Product Subarray | [Solution](Solution/0152-maximum-product-subarray.py) |
 | 153 | Find Minimum in Rotated Sorted Array | [Solution](Solution/0153-find-minimum-in-rotated-sorted-array.py) |
 | 154 | Find Minimum in Rotated Sorted Array II | [Solution](Solution/0154-find-minimum-in-rotated-sorted-array-ii.py) |
+| 155 | Min Stack | [Solution](Solution/0155-min-stack.py) |
