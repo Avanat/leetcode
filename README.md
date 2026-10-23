@@ -164,3 +164,4 @@ My solutions to LeetCode problems, implemented in Python.
 | 155 | Min Stack | [Solution](Solution/0155-min-stack.py) |
 | 160 | Intersection of Two Linked Lists | [Solution](Solution/0160-intersection-of-two-linked-lists.py) |
 | 162 | Find Peak Element | [Solution](Solution/0162-find-peak-element.py) |
+| 164 | Maximum Gap | [Solution](Solution/0164-maximum-gap.py) |
