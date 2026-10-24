@@ -167,3 +167,4 @@ My solutions to LeetCode problems, implemented in Python.
 | 164 | Maximum Gap | [Solution](Solution/0164-maximum-gap.py) |
 | 165 | Compare Version Numbers | [Solution](Solution/0165-compare-version-numbers.py) |
 | 166 | Fraction to Recurring Decimal | [Solution](Solution/0166-fraction-to-recurring-decimal.py) |
+| 167 | Two Sum II - Input Array Is Sorted | [Solution](Solution/0167-two-sum-ii-input-array-is-sorted.py) |
