@@ -171,3 +171,4 @@ My solutions to LeetCode problems, implemented in Python.
 | 168 | Excel Sheet Column Title | [Solution](Solution/0168-excel-sheet-column-title.py) |
 | 169 | Majority Element | [Solution](Solution/0169-majority-element.py) |
 | 171 | Excel Sheet Column Number | [Solution](Solution/0171-excel-sheet-column-number.py) |
+| 172 | Factorial Trailing Zeroes | [Solution](Solution/0172-factorial-trailing-zeroes.py) |
