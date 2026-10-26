@@ -173,3 +173,4 @@ My solutions to LeetCode problems, implemented in Python.
 | 171 | Excel Sheet Column Number | [Solution](Solution/0171-excel-sheet-column-number.py) |
 | 172 | Factorial Trailing Zeroes | [Solution](Solution/0172-factorial-trailing-zeroes.py) |
 | 173 | Binary Search Tree Iterator | [Solution](Solution/0173-binary-search-tree-iterator.py) |
+| 174 | Dungeon Game | [Solution](Solution/0174-dungeon-game.py) |
