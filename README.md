@@ -174,3 +174,4 @@ My solutions to LeetCode problems, implemented in Python.
 | 172 | Factorial Trailing Zeroes | [Solution](Solution/0172-factorial-trailing-zeroes.py) |
 | 173 | Binary Search Tree Iterator | [Solution](Solution/0173-binary-search-tree-iterator.py) |
 | 174 | Dungeon Game | [Solution](Solution/0174-dungeon-game.py) |
+| 175 | Combine Two Tables | [Solution](Solution/0175-combine-two-tables.sql) |
