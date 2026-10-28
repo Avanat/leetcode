@@ -177,3 +177,4 @@ My solutions to LeetCode problems, implemented in Python.
 | 175 | Combine Two Tables | [Solution](Solution/0175-combine-two-tables.sql) |
 | 176 | Second Highest Salary | [Solution](Solution/0176-second-highest-salary.sql) |
 | 177 | Nth Highest Salary | [Solution](Solution/0177-nth-highest-salary.sql) |
+| 178 | Rank Scores | [Solution](Solution/0178-rank-scores.sql) |
