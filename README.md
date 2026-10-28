@@ -179,3 +179,4 @@ My solutions to LeetCode problems, implemented in Python.
 | 177 | Nth Highest Salary | [Solution](Solution/0177-nth-highest-salary.sql) |
 | 178 | Rank Scores | [Solution](Solution/0178-rank-scores.sql) |
 | 179 | Largest Number | [Solution](Solution/0179-largest-number.py) |
+| 180 | Consecutive Numbers | [Solution](Solution/0180-consecutive-numbers.sql) |
