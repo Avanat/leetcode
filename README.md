@@ -183,3 +183,4 @@ My solutions to LeetCode problems, implemented in Python.
 | 181 | Employees Earning More Than Their Managers | [Solution](Solution/0181-employees-earning-more-than-their-managers.sql) |
 | 182 | Duplicate Emails | [Solution](Solution/0182-duplicate-emails.sql) |
 | 183 | Customers Who Never Order | [Solution](Solution/0183-customers-who-never-order.sql) |
+| 184 | Department Highest Salary | [Solution](Solution/0184-department-highest-salary.sql) |
