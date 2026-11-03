@@ -187,3 +187,4 @@ My solutions to LeetCode problems, implemented in Python.
 | 185 | Department Top Three Salaries | [Solution](Solution/0185-department-top-three-salaries.sql) |
 | 187 | Repeated DNA Sequences | [Solution](Solution/0187-repeated-dna-sequences.py) |
 | 188 | Best Time to Buy and Sell Stock IV | [Solution](Solution/0188-best-time-to-buy-and-sell-stock-iv.py) |
+| 189 | Rotate Array | [Solution](Solution/0189-rotate-array.py) |
