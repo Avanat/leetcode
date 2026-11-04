@@ -189,3 +189,4 @@ My solutions to LeetCode problems, implemented in Python.
 | 188 | Best Time to Buy and Sell Stock IV | [Solution](Solution/0188-best-time-to-buy-and-sell-stock-iv.py) |
 | 189 | Rotate Array | [Solution](Solution/0189-rotate-array.py) |
 | 190 | Reverse Bits | [Solution](Solution/reverse-bits.py) |
+| 192 | Number of 1 Bits | [Solution](Solution/number-of-1-bits.py) |
