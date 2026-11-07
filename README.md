@@ -193,3 +193,4 @@ My solutions to LeetCode problems, implemented in Python.
 | 192 | Word Frequency | [Solution](Solution/0192-word-frequency.sh) |
 | 193 | Valid Phone Numbers | [Solution](Solution/0193-valid-phone-numbers.sh) |
 | 194 | Transpose File | [Solution](Solution/0194-transpose-file.sh) |
+| 195 | Tenth Line | [Solution](Solution/0195-tenth-line.sh) |
