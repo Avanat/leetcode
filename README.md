@@ -194,3 +194,4 @@ My solutions to LeetCode problems, implemented in Python.
 | 193 | Valid Phone Numbers | [Solution](Solution/0193-valid-phone-numbers.sh) |
 | 194 | Transpose File | [Solution](Solution/0194-transpose-file.sh) |
 | 195 | Tenth Line | [Solution](Solution/0195-tenth-line.sh) |
+| 196 | Delete Duplicate Emails | [Solution](Solution/0196-delete-duplicate-emails.sql) |
