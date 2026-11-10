@@ -196,3 +196,4 @@ My solutions to LeetCode problems, implemented in Python.
 | 195 | Tenth Line | [Solution](Solution/0195-tenth-line.sh) |
 | 196 | Delete Duplicate Emails | [Solution](Solution/0196-delete-duplicate-emails.sql) |
 | 197 | Rising Temperature | [Solution](Solution/0197-rising-temperature.sql) |
+| 198 | House Robber | [Solution](Solution/0198-house-robber.py) |
