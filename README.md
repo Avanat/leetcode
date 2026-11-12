@@ -198,3 +198,4 @@ My solutions to LeetCode problems, implemented in Python.
 | 197 | Rising Temperature | [Solution](Solution/0197-rising-temperature.sql) |
 | 198 | House Robber | [Solution](Solution/0198-house-robber.py) |
 | 199 | Binary Tree Right Side View | [Solution](Solution/0199-binary-tree-right-side-view.py) |
+| 200 | Number of Islands | [Solution](Solution/0200-number-of-islands.py) |
