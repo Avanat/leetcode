@@ -200,3 +200,4 @@ My solutions to LeetCode problems, implemented in Python.
 | 199 | Binary Tree Right Side View | [Solution](Solution/0199-binary-tree-right-side-view.py) |
 | 200 | Number of Islands | [Solution](Solution/0200-number-of-islands.py) |
 | 201 | Bitwise AND of Numbers Range | [Solution](Solution/0201-bitwise-and-of-numbers-range.py) |
+| 202 | Happy Number | [Solution](Solution/0202-happy-number.py) |
