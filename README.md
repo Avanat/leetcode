@@ -202,3 +202,4 @@ My solutions to LeetCode problems, implemented in Python.
 | 201 | Bitwise AND of Numbers Range | [Solution](Solution/0201-bitwise-and-of-numbers-range.py) |
 | 202 | Happy Number | [Solution](Solution/0202-happy-number.py) |
 | 203 | Remove Linked List Elements | [Solution](Solution/0203-remove-linked-list-elements.py) |
+| 204 | Count Primes | [Solution](Solution/0204-count-primes.py) |
