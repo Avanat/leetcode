@@ -204,3 +204,4 @@ My solutions to LeetCode problems, implemented in Python.
 | 203 | Remove Linked List Elements | [Solution](Solution/0203-remove-linked-list-elements.py) |
 | 204 | Count Primes | [Solution](Solution/0204-count-primes.py) |
 | 205 | Isomorphic Strings | [Solution](Solution/0205-isomorphic-strings.py) |
+| 206 | Reverse Linked List | [Solution](Solution/0206-reverse-linked-list.py) |
