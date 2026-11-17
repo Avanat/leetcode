@@ -210,3 +210,4 @@ My solutions to LeetCode problems, implemented in Python.
 | 209 | Minimum Size Subarray Sum | [Solution](Solution/0209-minimum-size-subarray-sum.py) |
 | 210 | Course Schedule II | [Solution](Solution/0210-course-schedule-ii.py) |
 | 211 | Design Add and Search Words Data Structure | [Solution](Solution/0211-design-add-and-search-words-data-structure.py) |
+| 212 | Word Search II | [Solution](Solution/0212-word-search-ii.py) |
