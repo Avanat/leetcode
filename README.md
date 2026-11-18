@@ -212,3 +212,4 @@ My solutions to LeetCode problems, implemented in Python.
 | 211 | Design Add and Search Words Data Structure | [Solution](Solution/0211-design-add-and-search-words-data-structure.py) |
 | 212 | Word Search II | [Solution](Solution/0212-word-search-ii.py) |
 | 213 | House Robber II | [Solution](Solution/0213-house-robber-ii.py) |
+| 214 | Shortest Palindrome | [Solution](Solution/0214-shortest-palindrome.py) |
