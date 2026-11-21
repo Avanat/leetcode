@@ -216,3 +216,4 @@ My solutions to LeetCode problems, implemented in Python.
 | 215 | Kth Largest Element in an Array | [Solution](Solution/0215-kth-largest-element-in-an-array.py) |
 | 216 | Combination Sum III | [Solution](Solution/0216-combination-sum-iii.py) |
 | 217 | Contains Duplicate | [Solution](Solution/0217-contains-duplicate.py) |
+| 218 | The Skyline Problem | [Solution](Solution/0218-the-skyline-problem.py) |
