@@ -220,3 +220,4 @@ My solutions to LeetCode problems, implemented in Python.
 | 219 | Contains Duplicate II | [Solution](Solution/0219-contains-duplicate-ii.py) |
 | 220 | Contains Duplicate III | [Solution](Solution/0220-contains-duplicate-iii.py) |
 | 221 | Maximal Square | [Solution](Solution/0221-maximal-square.py) |
+| 222 | Count Complete Tree Nodes | [Solution](Solution/0222-count-complete-tree-nodes.py) |
