@@ -218,3 +218,4 @@ My solutions to LeetCode problems, implemented in Python.
 | 217 | Contains Duplicate | [Solution](Solution/0217-contains-duplicate.py) |
 | 218 | The Skyline Problem | [Solution](Solution/0218-the-skyline-problem.py) |
 | 219 | Contains Duplicate II | [Solution](Solution/0219-contains-duplicate-ii.py) |
+| 220 | Contains Duplicate III | [Solution](Solution/0220-contains-duplicate-iii.py) |
