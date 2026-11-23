@@ -222,3 +222,4 @@ My solutions to LeetCode problems, implemented in Python.
 | 221 | Maximal Square | [Solution](Solution/0221-maximal-square.py) |
 | 222 | Count Complete Tree Nodes | [Solution](Solution/0222-count-complete-tree-nodes.py) |
 | 223 | Rectangle Area | [Solution](Solution/0223-rectangle-area.py) |
+| 224 | Basic Calculator | [Solution](Solution/0224-basic-calculator.py) |
