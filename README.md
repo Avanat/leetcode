@@ -224,3 +224,4 @@ My solutions to LeetCode problems, implemented in Python.
 | 223 | Rectangle Area | [Solution](Solution/0223-rectangle-area.py) |
 | 224 | Basic Calculator | [Solution](Solution/0224-basic-calculator.py) |
 | 225 | Implement Stack using Queues | [Solution](Solution/0225-implement-stack-using-queues.py) |
+| 226 | Invert Binary Tree | [Solution](Solution/0226-invert-binary-tree.py) |
