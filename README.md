@@ -227,3 +227,4 @@ My solutions to LeetCode problems, implemented in Python.
 | 226 | Invert Binary Tree | [Solution](Solution/0226-invert-binary-tree.py) |
 | 227 | Basic Calculator II | [Solution](Solution/0227-basic-calculator-ii.py) |
 | 228 | Summary Ranges | [Solution](Solution/0228-summary-ranges.py) |
+| 229 | Majority Element II | [Solution](Solution/0229-majority-element-ii.py) |
