@@ -229,3 +229,4 @@ My solutions to LeetCode problems, implemented in Python.
 | 228 | Summary Ranges | [Solution](Solution/0228-summary-ranges.py) |
 | 229 | Majority Element II | [Solution](Solution/0229-majority-element-ii.py) |
 | 230 | Kth Smallest Element in a BST | [Solution](Solution/0230-kth-smallest-element-in-a-bst.py) |
+| 231 | Power of Two | [Solution](Solution/0231-power-of-two.py) |
